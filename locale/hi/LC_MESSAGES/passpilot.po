@@ -1,0 +1,388 @@
+# Hindi translations for PassPilot
+# Copyright (C) 2025 PassPilot
+# This file is distributed under the same license as the PassPilot package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PassPilot 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-04 21:18+0000\n"
+"PO-Revision-Date: 2025-10-04 21:18+0000\n"
+"Last-Translator: \n"
+"Language-Team: Hindi\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Main UI
+msgid "PassPilot Supreme"
+msgstr "पासपायलट सुप्रीम"
+
+msgid "Military-Grade Password Security Toolkit"
+msgstr "सैन्य-ग्रेड पासवर्ड सुरक्षा टूलकिट"
+
+msgid "Ready"
+msgstr "तैयार"
+
+# Menu items
+msgid "File"
+msgstr "फ़ाइल"
+
+msgid "Export History"
+msgstr "इतिहास निर्यात करें"
+
+msgid "Exit"
+msgstr "बाहर निकलें"
+
+msgid "View"
+msgstr "देखें"
+
+msgid "Dark Mode"
+msgstr "डार्क मोड"
+
+msgid "Show Passwords"
+msgstr "पासवर्ड दिखाएं"
+
+msgid "Help"
+msgstr "सहायता"
+
+msgid "Keyboard Shortcuts"
+msgstr "कीबोर्ड शॉर्टकट"
+
+msgid "About"
+msgstr "के बारे में"
+
+msgid "Language"
+msgstr "भाषा"
+
+msgid "Language Change"
+msgstr "भाषा परिवर्तन"
+
+msgid "Language changed to {0}. Please restart the application for changes to take effect."
+msgstr "भाषा {0} में बदल गई। परिवर्तनों को प्रभावी करने के लिए कृपया एप्लिकेशन को पुनरारंभ करें।"
+
+# Tabs
+msgid "Generator"
+msgstr "जनरेटर"
+
+msgid "Analyzer"
+msgstr "विश्लेषक"
+
+msgid "History"
+msgstr "इतिहास"
+
+# Generator tab
+msgid "Quick Presets"
+msgstr "त्वरित प्रीसेट"
+
+msgid "Custom Settings"
+msgstr "कस्टम सेटिंग्स"
+
+msgid "Length:"
+msgstr "लंबाई:"
+
+msgid "Lowercase (a-z)"
+msgstr "लोअरकेस (a-z)"
+
+msgid "Uppercase (A-Z)"
+msgstr "अपरकेस (A-Z)"
+
+msgid "Numbers (0-9)"
+msgstr "संख्याएं (0-9)"
+
+msgid "Symbols (!@#$%)"
+msgstr "प्रतीक (!@#$%)"
+
+msgid "Exclude ambiguous (0OIl1|)"
+msgstr "अस्पष्ट को बाहर करें (0OIl1|)"
+
+msgid "Generated Password"
+msgstr "जनरेट किया गया पासवर्ड"
+
+msgid "Generate Password (Ctrl+G)"
+msgstr "पासवर्ड जनरेट करें (Ctrl+G)"
+
+msgid "Generate Passphrase (Ctrl+P)"
+msgstr "पासफ्रेज जनरेट करें (Ctrl+P)"
+
+msgid "Copy to Clipboard (Ctrl+C)"
+msgstr "क्लिपबोर्ड में कॉपी करें (Ctrl+C)"
+
+# Analyzer tab
+msgid "Password Analysis"
+msgstr "पासवर्ड विश्लेषण"
+
+msgid "Enter password to analyze:"
+msgstr "विश्लेषण के लिए पासवर्ड दर्ज करें:"
+
+msgid "Strength Visualization"
+msgstr "शक्ति विज़ुअलाइज़ेशन"
+
+msgid "Enter a password to analyze"
+msgstr "विश्लेषण के लिए एक पासवर्ड दर्ज करें"
+
+msgid "Detailed Metrics"
+msgstr "विस्तृत मीट्रिक्स"
+
+msgid "Entropy: - bits"
+msgstr "एन्ट्रॉपी: - बिट्स"
+
+msgid "Est. crack time: -"
+msgstr "अनुमानित क्रैक समय: -"
+
+msgid "Character diversity: -"
+msgstr "वर्ण विविधता: -"
+
+msgid "Improvement Suggestions"
+msgstr "सुधार सुझाव"
+
+msgid "Check if Exposed in Data Breach"
+msgstr "डेटा उल्लंघन में उजागर हुई है या नहीं जांचें"
+
+# Suggestions
+msgid "Increase length to at least 12 characters"
+msgstr "लंबाई को कम से कम 12 वर्णों तक बढ़ाएं"
+
+msgid "Add lowercase letters"
+msgstr "लोअरकेस अक्षर जोड़ें"
+
+msgid "Add uppercase letters"
+msgstr "अपरकेस अक्षर जोड़ें"
+
+msgid "Add numbers"
+msgstr "संख्याएं जोड़ें"
+
+msgid "Add special characters"
+msgstr "विशेष वर्ण जोड़ें"
+
+msgid "Avoid common patterns and sequences"
+msgstr "सामान्य पैटर्न और अनुक्रमों से बचें"
+
+msgid "Use more unique characters"
+msgstr "अधिक अद्वितीय वर्णों का उपयोग करें"
+
+msgid "Your password is excellent!"
+msgstr "आपका पासवर्ड उत्कृष्ट है!"
+
+# Strength levels
+msgid "Critical"
+msgstr "गंभीर"
+
+msgid "Very Weak"
+msgstr "बहुत कमजोर"
+
+msgid "Weak"
+msgstr "कमजोर"
+
+msgid "Fair"
+msgstr "सामान्य"
+
+msgid "Good"
+msgstr "अच्छा"
+
+msgid "Strong"
+msgstr "मजबूत"
+
+msgid "Very Strong"
+msgstr "बहुत मजबूत"
+
+msgid "Exceptional"
+msgstr "असाधारण"
+
+# Messages
+msgid "Warning"
+msgstr "चेतावनी"
+
+msgid "Please select at least one character type!"
+msgstr "कृपया कम से कम एक वर्ण प्रकार चुनें!"
+
+msgid "Password generated ({0} characters)"
+msgstr "पासवर्ड जनरेट किया गया ({0} वर्ण)"
+
+msgid "Passphrase generated"
+msgstr "पासफ्रेज जनरेट किया गया"
+
+msgid "No password to copy!"
+msgstr "कॉपी करने के लिए कोई पासवर्ड नहीं!"
+
+msgid "Copied! Clipboard will clear in 30 seconds..."
+msgstr "कॉपी किया गया! क्लिपबोर्ड 30 सेकंड में साफ़ हो जाएगा..."
+
+msgid "Clipboard cleared for security"
+msgstr "सुरक्षा के लिए क्लिपबोर्ड साफ़ किया गया"
+
+msgid "Info"
+msgstr "जानकारी"
+
+msgid "Please enter a password to check."
+msgstr "कृपया जांचने के लिए एक पासवर्ड दर्ज करें।"
+
+msgid "Checking..."
+msgstr "जांच हो रही है..."
+
+msgid "Checking breach database..."
+msgstr "उल्लंघन डेटाबेस की जांच हो रही है..."
+
+msgid "Breach check failed"
+msgstr "उल्लंघन जांच विफल"
+
+msgid "Password is compromised!"
+msgstr "पासवर्ड समझौता किया गया है!"
+
+msgid "Password passed breach check"
+msgstr "पासवर्ड उल्लंघन जांच पास किया"
+
+msgid "Please select a password from history."
+msgstr "कृपया इतिहास से एक पासवर्ड चुनें।"
+
+msgid "Success"
+msgstr "सफलता"
+
+msgid "Password copied from history!"
+msgstr "इतिहास से पासवर्ड कॉपी किया गया!"
+
+msgid "Confirm"
+msgstr "पुष्टि करें"
+
+msgid "Clear all password history?"
+msgstr "सभी पासवर्ड इतिहास साफ़ करें?"
+
+msgid "History cleared"
+msgstr "इतिहास साफ़ किया गया"
+
+msgid "No history to export."
+msgstr "निर्यात करने के लिए कोई इतिहास नहीं।"
+
+msgid "JSON files"
+msgstr "JSON फ़ाइलें"
+
+msgid "All files"
+msgstr "सभी फ़ाइलें"
+
+msgid "History exported to {0}"
+msgstr "इतिहास {0} में निर्यात किया गया"
+
+msgid "Export failed: {0}"
+msgstr "निर्यात विफल: {0}"
+
+# History tab
+msgid "Session Password History (In-Memory Only)"
+msgstr "सत्र पासवर्ड इतिहास (केवल मेमोरी में)"
+
+msgid "Passwords are stored only for this session and are never written to disk."
+msgstr "पासवर्ड केवल इस सत्र के लिए संग्रहीत किए जाते हैं और कभी भी डिस्क पर नहीं लिखे जाते।"
+
+msgid "Copy Selected"
+msgstr "चयनित कॉपी करें"
+
+msgid "Refresh"
+msgstr "रीफ्रेश करें"
+
+msgid "Clear History"
+msgstr "इतिहास साफ़ करें"
+
+# Help and About
+msgid ""
+"PassPilot Supreme - Keyboard Shortcuts\n"
+"=====================================\n"
+"\n"
+"Ctrl+G    Generate Password\n"
+"Ctrl+P    Generate Passphrase\n"
+"Ctrl+C    Copy to Clipboard\n"
+"F1        Show This Help\n"
+"\n"
+"Features:\n"
+"• Military-grade password generation\n"
+"• Real-time strength analysis\n"
+"• Breach database checking (Have I Been Pwned)\n"
+"• Pattern detection & suggestions\n"
+"• Secure clipboard with auto-clear\n"
+"• Session-only password history\n"
+msgstr ""
+"पासपायलट सुप्रीम - कीबोर्ड शॉर्टकट\n"
+"=====================================\n"
+"\n"
+"Ctrl+G    पासवर्ड जनरेट करें\n"
+"Ctrl+P    पासफ्रेज जनरेट करें\n"
+"Ctrl+C    क्लिपबोर्ड में कॉपी करें\n"
+"F1        यह सहायता दिखाएं\n"
+"\n"
+"सुविधाएं:\n"
+"• सैन्य-ग्रेड पासवर्ड जनरेशन\n"
+"• रीयल-टाइम शक्ति विश्लेषण\n"
+"• उल्लंघन डेटाबेस जांच (Have I Been Pwned)\n"
+"• पैटर्न डिटेक्शन और सुझाव\n"
+"• सुरक्षित क्लिपबोर्ड ऑटो-क्लियर के साथ\n"
+"• सत्र-केवल पासवर्ड इतिहास\n"
+
+msgid ""
+"PassPilot Supreme v2.0\n"
+"The Ultimate Password Security Toolkit\n"
+"\n"
+"Features:\n"
+"✓ Cryptographically secure password generation\n"
+"✓ Advanced entropy calculation\n"
+"✓ Real-time strength analysis\n"
+"✓ Pattern detection\n"
+"✓ Breach database integration\n"
+"✓ Smart suggestions\n"
+"✓ Secure clipboard management\n"
+"✓ Beautiful modern interface\n"
+"\n"
+"Built with Python & Tkinter\n"
+"© 2025 PassPilot Supreme\n"
+msgstr ""
+"पासपायलट सुप्रीम v2.0\n"
+"अंतिम पासवर्ड सुरक्षा टूलकिट\n"
+"\n"
+"सुविधाएं:\n"
+"✓ क्रिप्टोग्राफ़िक रूप से सुरक्षित पासवर्ड जनरेशन\n"
+"✓ उन्नत एन्ट्रॉपी गणना\n"
+"✓ रीयल-टाइम शक्ति विश्लेषण\n"
+"✓ पैटर्न डिटेक्शन\n"
+"✓ उल्लंघन डेटाबेस एकीकरण\n"
+"✓ स्मार्ट सुझाव\n"
+"✓ सुरक्षित क्लिपबोर्ड प्रबंधन\n"
+"✓ सुंदर आधुनिक इंटरफ़ेस\n"
+"\n"
+"Python & Tkinter के साथ निर्मित\n"
+"© 2025 पासपायलट सुप्रीम\n"
+
+# Breach check messages
+msgid "⚠️ EXPOSED! Found {0} times in breaches"
+msgstr "⚠️ उजागर! उल्लंघनों में {0} बार पाया गया"
+
+msgid "✅ Safe! Not found in known breaches"
+msgstr "✅ सुरक्षित! ज्ञात उल्लंघनों में नहीं मिला"
+
+msgid "Password is empty."
+msgstr "पासवर्ड खाली है।"
+
+msgid "API error: {0}"
+msgstr "API त्रुटि: {0}"
+
+msgid "Error: {0}"
+msgstr "त्रुटि: {0}"
+
+# Crack time messages
+msgid "seconds"
+msgstr "सेकंड"
+
+msgid "minutes"
+msgstr "मिनट"
+
+msgid "hours"
+msgstr "घंटे"
+
+msgid "days"
+msgstr "दिन"
+
+msgid "years"
+msgstr "साल"
+
+msgid "thousand years"
+msgstr "हजार साल"
+
+msgid "millions of years+"
+msgstr "लाखों साल+"
